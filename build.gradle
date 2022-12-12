@@ -23,6 +23,7 @@ repositories {
 
 launch4j {
   mainClassName = 'SwingDemo'
+  outputDir = '../exeDir'
 }
 // In this section you declare the dependencies for your production and test code
 dependencies {
